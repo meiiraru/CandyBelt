@@ -1,0 +1,68 @@
+{
+  "format_version": "1.8.0",
+  "outliner": [
+    "machine",
+    "controls",
+    "alarm_base",
+    "alarm",
+    {
+      "name": "button1",
+      "origin": [0, 13, -8],
+      "children": [
+        "left"
+      ]
+    },
+    {
+      "name": "button2",
+      "origin": [0, 13, -8],
+      "children": [
+        "confirm"
+      ]
+    },
+    {
+      "name": "button3",
+      "origin": [0, 13, -8],
+      "children": [
+        "right"
+      ]
+    }
+  ],
+  "animations": {
+    "1": {
+      "animation_length": 0.25,
+      "bones": {
+        "button1": {
+          "position": {
+            "0.0": [0, 0, 0],
+            "0.125": [0, -0.28284, 0.28284],
+            "0.25": [0, 0, 0]
+          }
+        }
+      }
+    },
+    "2": {
+      "animation_length": 0.25,
+      "bones": {
+        "button2": {
+          "position": {
+            "0.0": [0, 0, 0],
+            "0.125": [0, -0.28284, 0.28284],
+            "0.25": [0, 0, 0]
+          }
+        }
+      }
+    },
+    "3": {
+      "animation_length": 0.25,
+      "bones": {
+        "button3": {
+          "position": {
+            "0.0": [0, 0, 0],
+            "0.125": [0, -0.28284, 0.28284],
+            "0.25": [0, 0, 0]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+# Made in Blockbench 5.0.4
+mtllib model.mtl
+
+o floor
+v 25 0 25
+v 25 0 -25
+v -25 0 25
+v -25 0 -25
+vt 50 -49
+vt 50 1
+vt 0 1
+vt 0 -49
+vn 0 1 0
+usemtl m_fb1617bb-5849-388c-7e99-0ece60b2ff1e
+f 1/1/1 2/2/1 4/3/1 3/4/1

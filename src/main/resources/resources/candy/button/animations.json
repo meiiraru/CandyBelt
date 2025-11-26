@@ -1,0 +1,25 @@
+{
+  "format_version": "1.8.0",
+  "outliner": [
+    "cuboid",
+    {
+      "children": ["confirm"],
+      "name": "button2",
+      "origin": [0, 0, 0]
+    }
+  ],
+  "animations": {
+    "1": {
+      "animation_length": 0.1667,
+      "bones": {
+        "button2": {
+          "position": {
+            "0.0": [0, 0, 0],
+            "0.0833": [0, -0.75, 0],
+            "0.1667": [0, 0, 0]
+          }
+        }
+      }
+    }
+  }
+}
